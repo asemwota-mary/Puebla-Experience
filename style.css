@@ -88,7 +88,7 @@ header {
     /* max-width: 1500px; */
     position: sticky;
     top: 40px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .header-wrapper {
